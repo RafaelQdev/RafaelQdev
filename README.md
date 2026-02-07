@@ -85,11 +85,11 @@ Features: Áudio interativo • Animações • Responsivo • Deploy Vercel
 
 ---
 
-### 🎨 [Portfólio Pessoal](https://rafaelqdev.github.io/RafaelQdev)
+### 🎨 [Portfólio Pessoal](https://portfolio-jade-xi-81.vercel.app/)
 
 Portfólio elegante e profissional com design moderno, responsividade total e boas práticas semânticas.
 
-**🔗 [VISITE](https://rafaelqdev.github.io/RafaelQdev)** | **[Código](https://github.com/RafaelQdev/RafaelQdev)**
+**🔗 [VISITE](https://portfolio-jade-xi-81.vercel.app/)** | **[Código](https://github.com/RafaelQdev/portfolio_)**
 
 ```
 Tecnologias: HTML5 • CSS3 (Flexbox, Grid)
