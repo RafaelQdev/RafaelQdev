@@ -110,17 +110,6 @@ Features: Lógica Inteligente • Síntese de Voz • Validação • Responsivo
 ```
 
 ---
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelQdev&show_icons=true&theme=dracula&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelQdev&layout=compact&theme=dracula)
-
-</div>
-
 ---
 
 ## 🎯 SKILLS & COMPETÊNCIAS
@@ -178,9 +167,9 @@ Features: Lógica Inteligente • Síntese de Voz • Validação • Responsivo
 
 ## 📚 RECURSOS ÚTEIS
 
-- **Portfólio Online:** [rafaelqdev.github.io/RafaelQdev](https://rafaelqdev.github.io/RafaelQdev)
-- **Cursos Alura:** [cursos.alura.com.br](https://cursos.alura.com.br/)
-- **GitHub Profile:** [github.com/RafaelQdev](https://github.com/RafaelQdev)
+- **Portfólio Online:** [https://rafaelqdev.github.io/RafaelQdev](https://rafaelqdev.github.io/RafaelQdev)
+- **Cursos Alura:** [https://cursos.alura.com.br/user/rafaelqdev](https://cursos.alura.com.br/user/rafaelqdev)
+- **GitHub Profile:** [https://portfolio-jade-xi-81.vercel.app/](https://portfolio-jade-xi-81.vercel.app/)
 
 ---
 
@@ -189,7 +178,5 @@ Features: Lógica Inteligente • Síntese de Voz • Validação • Responsivo
 ### 💡 *"Every expert was once a beginner"*
 
 **Desenvolvido com ❤️, dedicação e muito café ☕**
-
-![Visitantes](https://visitcount.itsvg.in/api?id=RafaelQdev&icon=0&color=0)
 
 </div>
