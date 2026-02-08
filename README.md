@@ -68,7 +68,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, estudante de **Aná
 
 ---
 
-## 💼 PROJETOS EM PRODUÇÃO
+## 💼 PROJETOS 
 
 > **⭐ Todos os projetos estão ONLINE e FUNCIONANDO para você testar!**
 
@@ -167,9 +167,7 @@ Features: Lógica Inteligente • Síntese de Voz • Validação • Responsivo
 
 ## 📚 RECURSOS ÚTEIS
 
-- **Portfólio Online:** [https://rafaelqdev.github.io/RafaelQdev](https://rafaelqdev.github.io/RafaelQdev)
 - **Cursos Alura:** [https://cursos.alura.com.br/user/rafaelqdev](https://cursos.alura.com.br/user/rafaelqdev)
-- **GitHub Profile:** [https://portfolio-jade-xi-81.vercel.app/](https://portfolio-jade-xi-81.vercel.app/)
 
 ---
 
