@@ -22,7 +22,7 @@
 
 ## 🚀 SOBRE MIM
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, estudante de **Análise e Desenvolvimento de Sistemas** na UniFip (2º período). Com uma **base sólida em Frontend** (HTML, CSS, JavaScript) e em especialização em **Backend Java**, estou em busca de minha primeira oportunidade como **estagiário de desenvolvimento**.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, estudante de **Análise e Desenvolvimento de Sistemas** na UniFip (2º período). Com uma **base sólida** (HTML, CSS, JavaScript) e em especialização em **Front-end com React**, estou em busca de minha primeira oportunidade como **estagiário de desenvolvimento**.
 
 ✨ **9 certificados Alura completos** | 🚀 **NLW Rocketseat** | 🌍 **Projetos online em produção** | 💡 **Aprendizado contínuo**
 
